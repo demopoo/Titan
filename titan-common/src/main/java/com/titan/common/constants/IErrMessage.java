@@ -1,0 +1,1 @@
+package com.titan.common.constants;/** * @author: yupu * @Date: Created in 上午10:27 2018/9/29 * @Des: * @Modifyed By: */public interface IErrMessage {    /**     * 获取错误编码     * @return     */    int getErrCode();    /**     * 获取错误信息     * @return     */    String getErrMessage();}
